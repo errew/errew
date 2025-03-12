@@ -1,5 +1,5 @@
 
-Welcome to errew's GitHub profile configuration repository!
+## Welcome to errew's GitHub profile configuration repository!
 
 ## About Me
 
